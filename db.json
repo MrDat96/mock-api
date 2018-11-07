@@ -1,5 +1,8 @@
 {
   "registration-check": {
     "registered": true
+  },
+  "survey/all": {
+    "name": "MrDat" 
   }
 }
